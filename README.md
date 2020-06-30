@@ -1,10 +1,10 @@
 #  Covid19-Analysis-and-Visualization-Project:india:
 
 ## Cover Photo
-[!(https://i.imgur.com/CWUoTet.jpg)]
+![](https://i.imgur.com/CWUoTet.jpg)
 
 ## Table of Content
-   * [Overview] (#Overview)
+   * [Overview](#Overview)
    * [Motivation](#Motivation)
    * [Technical Aspect](#Technical-Aspect)
    * [Installation](#Installation)
@@ -45,13 +45,27 @@ After cloning this repository run the below command to install required librarie
 ```bash
 pip install -r requirements.txt
 ```
+To collect data run api.pynb file.
+For analysis purpose run COVID_19_Data_Analysis.ipynb
 
 ## Report Analysis
+### Patient Information
+![](https://i.imgur.com/LL9p5fg.png) ![](https://i.imgur.com/dKGQH1h.png) 
+![](https://i.imgur.com/A07ISQW.png)
+![](https://i.imgur.com/GSRl5Nq.png)
+![](https://i.imgur.com/anUN6zF.png)
+![](https://i.imgur.com/2H5GI4t.png)
+
+__Comment:__
+    - Male persons are affected more comparative to Female. Male and Female ratio is 2:1.
+    - Adults(20-55) are infected more.
+    - Local transmission is the main factor of spreading this virus.
+
 
 
 ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)(https://forthebadge.com/images/badges/uses-git.svg)
+![](https://forthebadge.com/images/badges/made-with-python.svg)![](https://forthebadge.com/images/badges/uses-git.svg)
 
 [<img target="_blank" src="https://i.imgur.com/vIZmm5z.png" width=150>](https://pandas.pydata.org/) [<img target="_blank" src="https://i.imgur.com/1iCVgf8.png" width=150>](https://plotly.com/python/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">](https://matplotlib.org/)
 
