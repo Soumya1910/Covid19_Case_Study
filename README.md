@@ -1,10 +1,15 @@
 #  Covid19-Analysis-and-Visualization-Project:india:
 
 ## Cover Photo
-[![](https://i.imgur.com/CWUoTet.jpg)]
+[!(https://i.imgur.com/CWUoTet.jpg)]
 
 ## Table of Content
-   * [Overview] (#overview)
+   * [Overview] (#Overview)
+   * [Motivation](#Motivation)
+   * [Technical Aspect](#Technical-Aspect)
+   * [Installation](#Installation)
+   * [Report Analysis](#Report-Analysis)
+   * [Technologies Used](#Technologies-Used)
 
 
 
@@ -17,7 +22,7 @@ Currently the goal of all scientists around the world is to "Flatten the Curve".
 
 ## Technical Aspect
 This project is divided into three major parts:
-1. __Data Collection__: Get real time case data from [Covid-19 India Tracker Data] (https://api.covid19india.org/csv/)
+1. __Data Collection__: Get real time case data from [Covid-19 India Tracker Data](https://api.covid19india.org/csv/)
 2. __Data Preprocessing__: Preprocess data in required format and strore in csv file
 3. __Data Visualization__: Analyzing cases from various aspect by using matplotlib and plotly. 
     - Bar Chart
@@ -41,6 +46,13 @@ After cloning this repository run the below command to install required librarie
 pip install -r requirements.txt
 ```
 
-## Analysis Report
+## Report Analysis
+
+
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)(https://forthebadge.com/images/badges/uses-git.svg)
+
+[<img target="_blank" src="https://i.imgur.com/vIZmm5z.png" width=150>](https://pandas.pydata.org/) [<img target="_blank" src="https://i.imgur.com/1iCVgf8.png" width=150>](https://plotly.com/python/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">](https://matplotlib.org/)
 
 
