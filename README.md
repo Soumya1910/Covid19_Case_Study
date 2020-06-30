@@ -10,6 +10,7 @@
    * [Installation](#Installation)
    * [Report Analysis](#Report-Analysis)
    * [Technologies Used](#Technologies-Used)
+   * [Credit](#Credit)
 
 
 
@@ -103,4 +104,7 @@ __Comment:__</br>
 
 [<img target="_blank" src="https://i.imgur.com/vIZmm5z.png" width=150>](https://pandas.pydata.org/) [<img target="_blank" src="https://i.imgur.com/1iCVgf8.png" width=150>](https://plotly.com/python/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">](https://matplotlib.org/)
 
+
+## Credit
+For data collection strategies, a huge shout-out to [Devakumar Kp](https://github.com/imdevskp/covid-19-india-data)
 
