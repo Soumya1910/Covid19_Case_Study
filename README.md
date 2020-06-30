@@ -50,17 +50,51 @@ For analysis purpose run COVID_19_Data_Analysis.ipynb
 
 ## Report Analysis
 ### Patient Information
-![](https://i.imgur.com/LL9p5fg.png) ![](https://i.imgur.com/dKGQH1h.png) 
+![](https://i.imgur.com/LL9p5fg.png) 
+![](https://i.imgur.com/anUN6zF.png)
+![](https://i.imgur.com/dKGQH1h.png) 
 ![](https://i.imgur.com/A07ISQW.png)
 ![](https://i.imgur.com/GSRl5Nq.png)
-![](https://i.imgur.com/anUN6zF.png)
 ![](https://i.imgur.com/2H5GI4t.png)
 
-__Comment:__
-    - Male persons are affected more comparative to Female. Male and Female ratio is 2:1.
-    - Adults(20-55) are infected more.
-    - Local transmission is the main factor of spreading this virus.
+__Comment:__</br>
+    - Male persons are affected more comparative to Female. Male and Female ratio is 2:1.</br>
+    - Adults(20-55) are infected more.</br>
+    - Local transmission is the main factor of spreading this virus.</br>
 
+### State & District wise Cases
+![](https://i.imgur.com/REDNzsY.png)
+![](https://i.imgur.com/AvpJfGL.jpg)
+![](https://i.imgur.com/Wekl1pg.png)
+![](https://i.imgur.com/ghnrUjR.jpg)
+![](https://i.imgur.com/bhw0uLE.png)
+
+### Daily wise Report
+![](https://i.imgur.com/N49RR9o.jpg)
+![](https://i.imgur.com/q3vnmVn.jpg)
+
+### Confirm Cases Analysis
+![](https://i.imgur.com/MmwJ3ep.png)
+![](https://i.imgur.com/ieUcNpd.jpg)
+![](https://i.imgur.com/NhFqiwM.png)
+
+### Active Cases
+![](https://i.imgur.com/hFcC1bm.png)
+![](https://i.imgur.com/W68OJor.png)
+
+### Recovery Cases
+![](https://i.imgur.com/XQcQl1D.png)
+![](https://i.imgur.com/efUy0lg.png)
+![](https://i.imgur.com/drbEQt3.png)
+![](https://i.imgur.com/MDuEsxK.jpg)
+![](https://i.imgur.com/oBUQeFs.png)
+
+### Mortality Cases
+![](https://i.imgur.com/hCeEpcC.png)
+![](https://i.imgur.com/i4GCrv7.png)
+![](https://i.imgur.com/KZL0FHq.png)
+![](https://i.imgur.com/lsHGDzK.png)
+![](https://i.imgur.com/s70qMcL.png)
 
 
 ## Technologies Used
